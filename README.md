@@ -27,4 +27,4 @@ Kotlin · SwiftUI · C · Linux internals · QEMU · Android internals · GitHub
 ## How I work
 AI-assisted, hands-on, proof over promises: builds are verified on real hardware, screenshots over claims, and honest limits stated out loud — what's compiled, what's test-only, and what doesn't work yet.
 
-📍 Québec, Canada
+📍 Austin, Texas, USA
