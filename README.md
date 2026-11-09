@@ -7,11 +7,13 @@
 ### 🛡️ ScamDestroyer — anti-scam security app
 A defensive utility against push-notification phishing, malicious redirects, and ad-network tracking: a local DNS firewall, a hardened browser with a real download engine, a live threat map that resolves blocked domains to real locations, and a Lua/Three.js playground studio.
 
-- **Android** — Kotlin · Material 3 Expressive · v1.28
-- **iOS** — SwiftUI · Liquid Glass (iOS 26) · [ScamDestroyerIOS](https://github.com/void6720/ScamDestroyerIOS) — **v1.0 "First Launch"** is out in [Releases](https://github.com/void6720/ScamDestroyerIOS/releases/tag/v1.0)
+- **Android** — Kotlin · Material 3 Expressive · v1.29
+- **iOS** — SwiftUI · Liquid Glass (iOS 26) · [ScamDestroyerIOS](https://github.com/void6720/ScamDestroyerIOS) — **v1.0.1 "Studio Fixed"** is out in [Releases](https://github.com/void6720/ScamDestroyerIOS/releases/tag/v1.0.1)
 
 ### 🖥️ VoidOS — an operating system from scratch
 Started as a hand-written bootloader and freestanding kernel; became a full Linux distribution: Alpine base, XFCE desktop, a **custom-compiled 6.18.58-voidos kernel**, and **vpm**, my own package manager. Plus a from-scratch AOSP rebuild in progress.
+
+- **Now public on GitHub** — [VoidOS](https://github.com/void6720/VoidOS) · first test image **v1.0-x86_64** in [Releases](https://github.com/void6720/VoidOS/releases/tag/v1.0-x86_64) · an arm64 build for ARM Chromebooks is in progress
 
 ### 📱 More builds
 - **VoidVM** — a QEMU virtual machine that boots Linux inside an Android app
